@@ -38,6 +38,7 @@ LIBS:connex_led
 LIBS:connex_mosfets
 LIBS:connex_Resistor
 LIBS:connex_test
+LIBS:led_watch_v1-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -53,7 +54,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 1825 2150 1850 1600
+S 1625 1400 1850 1600
 U 5A2D4EF8
 F0 "leds" 60
 F1 "leds.sch" 60
